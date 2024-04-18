@@ -1,0 +1,60 @@
+# Arquivos de compilação
+bin
+obj
+
+# Arquivos temporários
+.bak
+.cache
+
+# Logs e arquivos gerados automaticamente
+.log
+.vscode
+.vs
+_i.c
+_p.c
+.ilk
+.ncb
+.pdb
+.pgc
+.pgd
+.rsp
+.sbr
+.suo
+.tlb
+.tli
+.tlh
+.tmp
+.tmp_proj
+.user
+.userosscache
+.sln.docstates
+
+# Arquivos de configuração
+.swp
+.~
+.dll.config
+
+# Arquivos de build do Visual Studio
+[Dd]ebug
+[Rr]elease
+x64
+x86
+[Aa][Rr][Mm]
+[Aa][Rr][Mm]64
+bld
+[Bb]in
+[Oo]bj
+[Ll]og
+[Tt]est[Rr]esult
+[Tt]est[Rr]eport
+Ankh.NoLoad
+
+# Arquivos do Resharper
+_ReSharper
+
+# Ferramentas e dependências do .NET Core
+project.lock.json
+project.fragment.lock.json
+artifacts
+bin
+obj
