@@ -1,9 +1,8 @@
 # 💻 Projeto de LanHouse - C#
 Seja bem-vindo ao repositório do nosso projeto LanHouse, desenvolvido para o Checkpoint 2 da matéria de C#
 
-<h1 id="autores">🤝 Integrantes</h2>
+## 🤝 Integrantes
 <table>
-  <tr>
     <td align="center">
       <p>RM551809</p>
       <a href="https://github.com/nichol6s">
@@ -22,3 +21,4 @@ Seja bem-vindo ao repositório do nosso projeto LanHouse, desenvolvido para o Ch
         </sub>
       </a>
     </td>
+</table>
